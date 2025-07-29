@@ -4,7 +4,7 @@ Exploring recursion with python and javascript
 ## Credits
 
 This project is based on exercises and examples from the book  
-**The Recursive Book of Recursion** by [Al Sweigart](https://www.al-sweigart.com/).
+**The Recursive Book of Recursion** by Al Sweigart
 
 Original book and source material: [https://inventwithpython.com/recursion/](https://inventwithpython.com/recursion/)
 
